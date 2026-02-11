@@ -84,7 +84,7 @@ App.js └── index.js
 git clone https://github.com/your-username/mobile-comparison.git cd
 mobile-comparison npm install npm start
 
-Application runs at: http://localhost:3000
+Application runs at: [http://localhost:3000](https://simple-mobile-comparison.vercel.app/)
 
 ------------------------------------------------------------------------
 
